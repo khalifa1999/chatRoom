@@ -1,8 +1,6 @@
 # chatRoom
-logiciel de discussion en java avec RMI (remote methode invocation)
+Java chat application using RMI.
 
-On veut développer un logiciel utilisant la technologie RMI. Pour cela on se propose de
-mettre en oeuvre un logiciel de chat. Un tel logiciel permet simultanément à plusieurs
-utilisateurs de discuter ensemble. Chaque message posté par un utilisateur est immédiatement
-envoyé et présenté aux autres utilisateurs qui sont presents.
+Once you've downloaded it, double click on the server.
+When it starts running, now open a client or as many as you want to test it.
 
